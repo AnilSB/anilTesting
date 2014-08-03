@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>999D6248-CAE3-4563-9805-E43A0FA9AACC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cvcvcvcv</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B24E2C36-033C-41D7-8C7E-12C6D967A14C</key>
+		<string>https://github.com/AnilSB/anilTesting.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>anilTesting/cvcvcvcv.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1FD7AAE9-0A84-45FD-AD28-72FA334C3B62</key>
+		<string>../../..</string>
+		<key>B24E2C36-033C-41D7-8C7E-12C6D967A14C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AnilSB/anilTesting.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1FD7AAE9-0A84-45FD-AD28-72FA334C3B62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B24E2C36-033C-41D7-8C7E-12C6D967A14C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>anilTesting</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1FD7AAE9-0A84-45FD-AD28-72FA334C3B62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cvcvcvcv</string>
+		</dict>
+	</array>
+</dict>
+</plist>
